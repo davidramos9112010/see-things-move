@@ -1,0 +1,24 @@
+body{
+text-align: center;
+background-position: center;
+background-size: cover;
+}
+.heading{
+font-size: medium;
+width: 100%;
+margin: 0px;
+}
+#status{
+    font-size: small;
+
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #b5912f;
+}
+
+
+
+
+
+
